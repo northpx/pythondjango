@@ -17,7 +17,7 @@ def context_data(request):
         'system_host' : abs_uri,
         'page_name' : '',
         'page_title' : '',
-        'system_name' : 'Library Managament System',
+        'system_name' : 'Book Management System',
         'topbar' : True,
         'footer' : True,
     }
